@@ -9,5 +9,5 @@
   src="code.gif"
   alt="Code"
   title="Code"
-  style="display: inline-block; margin: 0 auto; max-width: 250px" />
+  style="display: inline-block; margin: 0 auto; width: 250px" />
 
