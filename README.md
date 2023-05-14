@@ -12,8 +12,7 @@
 
 </summary>
 
-1. A second-year student of the CATEC College.
-Specialty robotics and embedded systems technician.
+1. A second-year student of the CATEC College.<br/>Specialty robotics and embedded systems technician.
 2. Student IT-STEP academy.
 3. Graduate of the Kokshetau music school.
 
