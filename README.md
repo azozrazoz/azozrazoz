@@ -26,7 +26,7 @@ Specialty robotics and embedded systems technician.
 * Prize-winner of the All-Russian marathon festival "DETalka".
 * Time record for assembling a Rubik's cube: <span style="color:blue">16.2 с.
 * Graduated from the music school with honors.
-* 400+ youtube subscribers.
+* 400+ youtube subscribers :).
 * Winner of the WorldSkills Regional Championship.
 * ~~Winner of the WorldSkills National championship.~~
 * ~~Winner of the WorldSkills World championship.~~
