@@ -1,4 +1,6 @@
-# About me 🤖
+<p>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🤖&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <details>
 <summary style="
@@ -41,12 +43,8 @@
 </details>
 
 ***
-<div style="display:inline-flex;">
 
 [![YouTube](https://img.shields.io/badge/-YouTube-white?style=for-the-badge&logo=YouTube&logoColor=black)](https://www.youtube.com/@doshan)
-
-[![monkeytype](https://github.com/azozrazoz/azozrazoz/blob/main/monkeytype_logo.svg)](https://monkeytype.com/profile/imka)
-</div>
 
 <img
   src="error.gif"
