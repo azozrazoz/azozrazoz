@@ -46,6 +46,8 @@
 
 [![YouTube](https://img.shields.io/badge/-YouTube-white?style=for-the-badge&logo=YouTube&logoColor=black)](https://www.youtube.com/@doshan)
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <img
   src="error.gif"
   alt="error"
