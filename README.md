@@ -1,4 +1,4 @@
-## About me 🤖
+# About me 🤖
 
 <details>
 <summary>
@@ -6,7 +6,11 @@
 |Degrees|
 |-------|
 
-</summary>
+</summary style="
+			-ms-user-select: none; 
+			-moz-user-select: none; 
+			-webkit-user-select: none; 
+			user-select: none;">
 
 1. A second-year student of the CATEC College.
 Specialty robotics and embedded systems technician.
@@ -16,7 +20,11 @@ Specialty robotics and embedded systems technician.
 </details>
 
 <details>
-<summary>
+<summary style="
+			-ms-user-select: none; 
+			-moz-user-select: none; 
+			-webkit-user-select: none; 
+			user-select: none;">
 
 |Achievements|
 |-------|
