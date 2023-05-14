@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=About_me🤖&animation=fadeIn&type=waving&color=gradient&height=100)
+***
+![header](https://capsule-render.vercel.app/api?text=About_me&animation=fadeIn&type=waving&color=gradient&height=100)
 
 <details>
 <summary style="
