@@ -48,5 +48,5 @@
   src="error.gif"
   alt="error"
   title="error"
-  style="display: inline; margin: 0 auto; width: 250px" />
+  style="display: inline; margin: 0 auto; width: 100px" />
   ***
