@@ -44,6 +44,7 @@
 <div style="display:inline-flex;">
 
 [![YouTube](https://img.shields.io/badge/-YouTube-white?style=for-the-badge&logo=YouTube&logoColor=black)](https://www.youtube.com/@doshan)
+
 [![monkeytype](https://github.com/azozrazoz/azozrazoz/blob/main/monkeytype_logo.svg)](https://monkeytype.com/profile/imka)
 </div>
 
