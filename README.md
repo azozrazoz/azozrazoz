@@ -43,18 +43,15 @@
 
 ***
 
-<a href="https://www.youtube.com/@doshan" target="blank"><img src="https://icons8.com/icon/0PaFy1V8I5DO/youtube" height="100"/></a>
+<div>
 
-<a target="_blank" href="https://icons8.com/icon/0PaFy1V8I5DO/youtube">YouTube</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a href="https://www.youtube.com/@doshan" target="blank">
+<img src="youtube-128.png" height="60"/>
+</a>
 
+<a href="https://monkeytype.com/profile/imka" target="blank">
+<img src="keyboard-64.png" height="60"/>
+</a>
 
-<!-- [![YouTube](https://icons8.com/icon/0PaFy1V8I5DO/youtube)](https://www.youtube.com/@doshan) -->
-
-<img
-  src="error.gif"
-  alt="error"
-  title="error"
-  style="display: inline; margin: 0 auto; width: 100px" />
-
-***
+</div>
 
