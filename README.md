@@ -43,7 +43,12 @@
 
 ***
 
-[![YouTube](https://img.shields.io/badge/-YouTube-white?style=for-the-badge&logo=YouTube&logoColor=black)](https://www.youtube.com/@doshan)
+<a href="https://www.youtube.com/@doshan" target="blank"><img src="https://icons8.com/icon/0PaFy1V8I5DO/youtube" height="100"/></a>
+
+<a target="_blank" href="https://icons8.com/icon/0PaFy1V8I5DO/youtube">YouTube</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+
+<!-- [![YouTube](https://icons8.com/icon/0PaFy1V8I5DO/youtube)](https://www.youtube.com/@doshan) -->
 
 <img
   src="error.gif"
