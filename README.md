@@ -13,7 +13,7 @@
 
 </summary>
 
-1. A second-year student of the CATEC College.<br/>Specialty robotics and embedded systems technician.
+1. A third-year student of the CATEC College.<br/>Specialty robotics and embedded systems technician.
 2. Student IT-STEP academy.
 3. Graduate of the Kokshetau music school.
 
@@ -32,7 +32,7 @@
 </summary>
 
 * Prize-winner of the All-Russian marathon festival "DETalka".
-* Time record for assembling a Rubik's cube: <span style="color:blue">16.2 с.
+* Time record for assembling a Rubik's cube: <span style="color:blue">16.2 с.</span>
 * Graduated from the music school with honors.
 * 400+ youtube subscribers :).
 * Winner of the WorldSkills Regional Championship.
