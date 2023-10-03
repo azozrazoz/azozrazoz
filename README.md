@@ -30,7 +30,7 @@
 |-------|
 
 * Prize-winner of the All-Russian marathon festival "DETalka".
-* Time record for assembling a Rubik's cube: <span style="color:blue;">*16.2 с.*</span>
+* Time record for assembling a Rubik's cube: <span style="color:blue;">**16.2 с.**</span>
 * Graduated from the music school with honors.
 * 500+ youtube subscribers :).
 * Winner of the WorldSkills Regional Championship.
@@ -40,11 +40,6 @@
 </details>
 
 ***
-
-</summary>
-<span style="color:red">
-Text content
-</span>
 
 <div>
 
