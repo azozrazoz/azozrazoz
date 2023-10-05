@@ -29,6 +29,8 @@
 |Achievements|
 |-------|
 
+</summary>
+
 * Prize-winner of the All-Russian marathon festival "DETalka".
 * Time record for assembling a Rubik's cube: <span style="color:blue;">**16.2 с.**</span>
 * Graduated from the music school with honors.
