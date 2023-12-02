@@ -36,7 +36,7 @@
 * Graduated from the music school with honors.
 * 500+ youtube subscribers :).
 * Winner of the WorldSkills Regional Championship.
-* ~~Winner of the WorldSkills National championship.~~
+* Winner of the WorldSkills National championship.
 * ~~Winner of the WorldSkills World championship.~~
 
 </details>
