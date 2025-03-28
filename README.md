@@ -61,4 +61,4 @@
 
 ***
 
-![Мой значок на Credly](https://www.credly.com/assets/images/sample-badge.png)
+<!--- ![Мой значок на Credly](https://www.credly.com/assets/images/sample-badge.png) --->
