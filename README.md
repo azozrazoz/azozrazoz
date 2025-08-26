@@ -13,9 +13,10 @@
 
 </summary>
 
-1. A fourth-year student of the CATEC College.<br/>Specialty robotics and embedded systems technician.
-2. Student IT-STEP academy.
+1. Graduate of the CATEC College.<br/>Specialty robotics and embedded systems technician.
+2. Graduate IT-STEP academy.
 3. Graduate of the Kokshetau music school.
+4. Student of the Chongqing polytechnic university of electronic technology
 
 </details>
 
